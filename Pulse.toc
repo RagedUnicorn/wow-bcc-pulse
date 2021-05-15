@@ -1,0 +1,32 @@
+## Interface: 11307
+## Title: Pulse
+## Author: Michael Wiesendanger <michael.wiesendanger@gmail.com>
+## Notes: Watch Tickrate for drinking, energy regen and similar
+## Version: v1.0.5
+## SavedVariablesPerCharacter: PulseConfiguration
+## X-Category: PVP Combat
+## X-Curse-Project-ID: 339160
+
+# constant values
+code/P_Constants.lua
+# environment variables
+code/P_Environment.lua
+
+# localization
+localization/enUS.lua
+localization/deDE.lua
+
+code/P_Core.lua
+code/P_Logger.lua
+code/P_Filter.lua
+code/P_Ticker.lua
+code/P_Cmd.lua
+code/P_Configuration.lua
+code/P_Tooltip.lua
+
+# gui
+gui/P_Frame.xml
+gui/P_Energybar.lua
+gui/P_AddonConfiguration.lua
+gui/P_AboutContent.lua
+gui/P_GeneralMenu.lua
