@@ -16,7 +16,7 @@ WoW-Addons are installed directly into your WoW directory:
 
 Make sure to get the newest version of the Addon from the releases tab:
 
-[Pulse-Releases](https://github.com/RagedUnicorn/wow-classic-pulse/releases)
+[Pulse-Releases](https://github.com/RagedUnicorn/wow-bcc-pulse/releases)
 
 > Note: If the Addon is not showing up in your ingame Addonlist make sure that the Addon is named `Pulse` in your Addons folder
 

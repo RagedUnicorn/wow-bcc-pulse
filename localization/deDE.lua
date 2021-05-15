@@ -19,7 +19,7 @@ if (GetLocale() == "deDE") then
   rgp.L["author"] = "Autor: Michael Wiesendanger"
   rgp.L["email"] = "E-Mail: michael.wiesendanger@gmail.com"
   rgp.L["version"] = "Version: " .. GetAddOnMetadata(RGP_CONSTANTS.ADDON_NAME, "Version")
-  rgp.L["issues"] = "Probleme: https://github.com/RagedUnicorn/wow-classic-pulse/issues"
+  rgp.L["issues"] = "Probleme: https://github.com/RagedUnicorn/wow-bcc-pulse/issues"
 
   -- general
   rgp.L["general_category_name"] = "Pulse Optionen"
