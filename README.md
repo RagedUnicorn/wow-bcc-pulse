@@ -34,7 +34,7 @@ Make sure to recheck the installation part of this Readme and check that the Add
 
 #### The Addon is spamming my chat with messages. Why is it doing this?
 
-Chances are you downloaded a development version of the addon. If you directly download the master branch you will get a development version that is printing a lot of debug message to the chat. Make sure that you download a release version of the addon here - [Pulse-Releases](https://github.com/RagedUnicorn/wow-classic-pulse/releases)
+Chances are you downloaded a development version of the addon. If you directly download the master branch you will get a development version that is printing a lot of debug message to the chat. Make sure that you download a release version of the addon here - [Pulse-Releases](https://github.com/RagedUnicorn/wow-bcc-pulse/releases)
 
 #### I get a red error (Lua Error) on my screen. What is this?
 
