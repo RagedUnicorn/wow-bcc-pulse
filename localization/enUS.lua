@@ -17,7 +17,7 @@ rgp.L["invalid_argument"] = "Invalid argument passed"
 rgp.L["author"] = "Author: Michael Wiesendanger"
 rgp.L["email"] = "E-Mail: michael.wiesendanger@gmail.com"
 rgp.L["version"] = "Version: " .. GetAddOnMetadata(RGP_CONSTANTS.ADDON_NAME, "Version")
-rgp.L["issues"] = "Issues: https://github.com/RagedUnicorn/wow-classic-pulse/issues"
+rgp.L["issues"] = "Issues: https://github.com/RagedUnicorn/wow-bcc-pulse/issues"
 
 -- general
 rgp.L["general_category_name"] = "Pulse Options"
