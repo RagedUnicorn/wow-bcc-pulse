@@ -4,8 +4,6 @@
 ## Notes: Watch Tickrate for drinking, energy regen and similar
 ## Version: v2.0.0
 ## SavedVariablesPerCharacter: PulseConfiguration
-## X-Category: PVP Combat
-## X-Curse-Project-ID: 339160
 
 # constant values
 code/P_Constants.lua
