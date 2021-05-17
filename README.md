@@ -8,6 +8,12 @@
 ![](/docs/license_mit.svg)
 [![](/docs/curseforge.svg)](https://curseforge.overwolf.com/?addonId=339160)
 
+**WoW Classic Support**
+
+> This Addon supports WoW Classic see - [classic-Pulse](https://github.com/RagedUnicorn/wow-classic-pulse/)
+
+<a href="https://github.com/RagedUnicorn/wow-classic-pulse/"><img src="/docs/vanilla_logo.png" width="40%"></img></a>
+
 ## Installation
 
 WoW-Addons are installed directly into your WoW directory:
