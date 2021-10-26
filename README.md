@@ -1,12 +1,12 @@
 # Pulse
 
-![](/docs/p_ragedunicorn_love_bcc.png)
+![](docs/p_ragedunicorn_love_bcc.png)
 
 > Pulse aims to give a visual interpretation of when the next resources tick happens. This can be used by multiple classes but the most prominent one might be rogue and his energy regeneration.
 
-![](/docs/wow_badge.svg)
-![](/docs/license_mit.svg)
-[![](/docs/curseforge.svg)](https://curseforge.overwolf.com/?addonId=339160&fileId=3449450)
+![](docs/wow_badge.svg)
+![](docs/license_mit.svg)
+[![](docs/curseforge.svg)](https://curseforge.overwolf.com/?addonId=339160&fileId=3449450)
 ![Lint](https://github.com/RagedUnicorn/wow-bcc-pulse/actions/workflows/lint.yaml/badge.svg?branch=master)
 
 **WoW Classic Support**
@@ -31,7 +31,7 @@ Make sure to get the newest version of the Addon from the releases tab:
 
 Pulse is a simple addon that tracks the energy-regen tickrate and the current amount of energy. The energybar will showup once the player spent some energy.
 
-![](/docs/pulse_example.jpg)
+![](docs/pulse_example.jpg)
 
 ## FAQ
 
