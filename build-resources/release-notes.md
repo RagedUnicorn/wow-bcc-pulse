@@ -1,1 +1,2 @@
-* Update addon to release 20502(2.5.2)
+* Update addon to release 20503(2.5.3)
+* Update licensing year to 2022
