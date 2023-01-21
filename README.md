@@ -19,6 +19,12 @@
 
 <a href="https://github.com/RagedUnicorn/wow-classic-pulse/"><img src="/docs/vanilla_logo.png" width="40%"></img></a>
 
+**WoW Wrath of The Lich King Classic Support**
+
+> This Addon supports WoW Wrath of The Lich King Classic see - [wotlkc-pulse](https://github.com/RagedUnicorn/wow-wotlkc-pulse/)
+
+<a href="https://github.com/RagedUnicorn/wow-wotlkc-pulse/"><img src="/docs/wrath_of_the_lich_king_logo.png" width="40%"></img></a>
+
 ## Installation
 
 WoW-Addons are installed directly into your WoW directory:
